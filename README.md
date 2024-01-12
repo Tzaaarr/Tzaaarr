@@ -1,5 +1,5 @@
 # 💫 About Me:
-Game development - Sorocaba/SP, Brazil. Studying Software Analysis and Development at PUC-PR. I love movies, games and building worlds with my drawings.
+Front-End Developer - Sorocaba/SP, Brazil. Studying Software Analysis and Development at PUC-PR. I love movies, games and building worlds with my drawings.
 
 
 ## 🌐 Socials:
